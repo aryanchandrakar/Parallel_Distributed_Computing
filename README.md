@@ -4,7 +4,7 @@ contains:
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
-in Open_mp
+in Open_mp --> https://github.com/aryanchandrakar/Parallel_Distributed_Computing/tree/main/open_mp
 
 1. Using OpenMP, Design, develop and run a multi-threaded program to perform and print vector addition. --> VectorAddition.c
 
@@ -22,7 +22,7 @@ in Open_mp
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-in MPI
+in MPI --> https://github.com/aryanchandrakar/Parallel_Distributed_Computing/tree/main/mpi
 
 1. Using MPI, Design, develop and run Broadcast communication (MPI_Bcast) using MPI_Send and MPI_Recv. --> mpi_bcast_using_mpi_SendRecv.c
 
