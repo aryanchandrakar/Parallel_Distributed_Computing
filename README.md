@@ -18,7 +18,7 @@ in Open_mp
 
 7. Write a parallel loop that computes the maximum and minimum values in an array --> max_min_array.c
 
-
+________________________________________________________________________________________________________________________________________________________________________________
 
 in MPI
 
