@@ -20,6 +20,8 @@ in Open_mp --> https://github.com/aryanchandrakar/Parallel_Distributed_Computing
 
 7. Write a parallel loop that computes the maximum and minimum values in an array --> max_min_array.c
 
+8.Using openMP, design, develop and run a multi-threaded program to generate palindromic prime numbers and find sum of its digit if it doesn’t have an even number. Use one thread to generate the numbers up to the specified limit N=2021 and other threads has to print them. (eg: 2, 3, 5, 7, 11, 101…..=>3+5+1+1+1+0+1+… -->palindrome_prime_addition.c 
+
 ________________________________________________________________________________________________________________________________________________________________________________
 
 in MPI --> https://github.com/aryanchandrakar/Parallel_Distributed_Computing/tree/main/mpi
